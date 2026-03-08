@@ -1,5 +1,6 @@
 # AddrLab
 
+[![Version: 0.9.1](https://img.shields.io/badge/Version-0.9.1-blue.svg)](https://github.com/addrlab/addrv2)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 **Generate custom Solana addresses – entirely in your browser.**
