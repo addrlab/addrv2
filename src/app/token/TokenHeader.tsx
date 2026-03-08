@@ -46,7 +46,7 @@ export function TokenHeader() {
                 <span className="text-accent font-bold">pump.fun</span> • Raydium • Jupiter
               </p>
               <p className="text-micro text-muted">
-                Create memorable token addresses like DOGE..., MOON..., or any custom pattern.
+                Create memorable token addresses like NIGGA..., GAY..., or any custom pattern.
               </p>
             </div>
           </div>
